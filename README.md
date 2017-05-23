@@ -1,6 +1,5 @@
-# fsdse-python-assignment-129
+# Implement a stack with push, pop, peek, and is_empty methods using a linked list.
 
-# Implement a stack
 ## Constraints
 * If we pop on an empty stack, do we return None?
 	* Yes
